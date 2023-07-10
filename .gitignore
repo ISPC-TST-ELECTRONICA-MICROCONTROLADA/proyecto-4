@@ -1,0 +1,3 @@
+# Se quita la estructura del vscode, para hacerlo generico
+.vscode/
+
