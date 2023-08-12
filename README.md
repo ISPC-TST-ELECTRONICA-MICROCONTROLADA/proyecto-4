@@ -1,21 +1,25 @@
 # ISPC - Instituto Superior Politecnico de Cordoba  
-** logo ISPC **  
+
+[![Instituto](../assets/BannerElect.png)](../assets/BannerElect.png)
   
 # Electronica Microcontrolada
-  
+
 **Docente:** Cristian Gonzalo Vera
   
 **Alumnos - Equipo em**  
-al1  
-al2  
-al3  
-al4  
-al5  
+- **Sofia Mariel Ortiz**
+- **Ulises Ale**  
+- **Hernan Romero Peresin**  
+- **Joaquin Cortabarria**
+- **Jose Augusto Orsili Ortiz**  
 al6  
 al7  
 al8  
 al9  
-  
+
+## Año
+- **2023**
+
 # Proyecto #4 - Control de display gigante con WS2812b  
   
 ## Objetivos  
