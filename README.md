@@ -1,6 +1,6 @@
 # ISPC - Instituto Superior Politecnico de Cordoba  
 
-[![Instituto](/assets/BannerElect.png)](/assets/BannerElect.png)
+[![Instituto](/Desarrollo/assets/BannerElect.png)](/Desarrollo/assets/BannerElect.png)
   
 # Electronica Microcontrolada
 
