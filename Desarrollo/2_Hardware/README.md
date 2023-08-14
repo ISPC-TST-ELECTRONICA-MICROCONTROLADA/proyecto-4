@@ -1,4 +1,29 @@
 # Descripcion de la electronica utilizada en el proyecto
+
+## Especificacion Electronica
+
+* El controlador del display contendrá:  
+* La placa Esp32.  
+* 2 Placas de 70*50 [mm]
+* El dispositivo se va a alimentar con 5V (4A) desde una fuente tipo cargador.   
+* Se va a controlar inicialmente desde un control remoto ir.   
+* 86 led ws2812b  
+* Estaño 0,75 mm2 para soldar, 60/40.   
+* Soldador  
+* Cable 0,50 mm2 tipo ribon para conexiones. 
+* También se va a utilizar un RTCs para el cálculo del tiempo.  
+* El controlador maneja el display a través de 3 hilos.   
+* Todo esto debe ir colocado en un gabinete acorde.  
+
+-[ ] : Se adjunta mail al area de compras para que se encargue de la compra de los componentes.  
+
+
+
+
+
+
+
+
   
 ## Controladores  
   
