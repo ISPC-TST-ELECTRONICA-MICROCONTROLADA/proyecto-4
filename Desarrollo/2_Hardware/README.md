@@ -17,12 +17,9 @@
 
 -[ ] : Se adjunta mail al area de compras para que se encargue de la compra de los componentes.  
 
+## Circuito
 
-
-
-
-
-
+[![Circuito](/Assets/images/Circuito.jpg)](/Assets/images/Circuito.jpg)
 
   
 ## Controladores  
